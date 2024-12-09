@@ -1,0 +1,145 @@
+.form-group{
+    width: 100%;
+} 
+
+
+.welcomeT, h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 50px;
+    text-shadow: -1px 1px 0 #298cba,
+    1px 1px 0 #298cba,
+    1px -1px 0 #298cba,
+    -1px -1px 0 #298cba;
+}
+
+#homePic{
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+
+
+#submitButon{
+    background-color:#298cba;
+    border-color:#298cba;
+}
+
+#userinput{
+    align-items: center;
+    margin-bottom:20px;
+}
+
+#passinput{
+    margin-bottom:30px;
+}
+
+.badge-elevated {
+    color: white;
+    background-color: red; 
+}
+
+.badge-active{
+    color: white; 
+    background-color: green;
+}
+
+.badge-normal{
+    color: white;
+    background-color: blue;
+}
+
+.homeSen{
+    color:white;
+    margin-top: 5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    background-color: #298cba;
+}
+#homeCard{
+
+    height:270px;
+    width: auto;
+}
+
+.homeAct{
+    color:white;
+    margin-top: 5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    background-color: #298cba;
+}
+
+#goHome{
+    margin-bottom: 15px;
+    width:80%;
+    align-self: center;
+    background-color:#0b6792;
+    border-color:#298cba;
+    color:rgb(254, 255, 255);
+} 
+
+
+
+ .card {
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+    justify-content: center;
+    margin-left: 10px !important;
+} 
+
+thead{
+    text-align: left;
+}
+
+.head{
+    background-color: #298cba;
+}
+
+
+table{
+    margin-top: 50px;
+}
+
+.navbar-brand{
+    padding-left: 10px !important;
+
+}
+.sensor {
+
+    color:white;
+    background-color:#298cba;
+    border-collapse:separate;
+   
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+
+}
+
+.card {
+   border-color: #2e4d5c !important;
+} 
+
+.actuator {
+    padding-top: 5px;
+    color: white;
+    background-color: #ffbf6c;
+} 
+
+.card-footer{
+    background-color: #c7e6f5;
+}
+
+.card_buzzer{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-body {
+    width:auto;
+    height: auto;
+    justify-content: center;
+} 
+
