@@ -3,11 +3,11 @@ import time
 import requests
 
 # Setup
-SSID = "LigaT_56424E"  # Your WiFi SSID
-PASSWORD = "wlan2f195f"  # Your WiFi Password
-SERVER_URL = "http://localhost:78/project_TI/api.php"  # Replace with your server address
+SSID = "wifi_name"  # Your WiFi SSID
+PASSWORD = "wifi_passwd"  # Your WiFi Password
+SERVER_URL = "server"  # Replace with your server address
 
-PHOTORESISTOR_PIN = 17  # GPIO pin for photoresistor
+PHOTORESISTOR_PIN = 17  
 LED_PIN = 27  # GPIO pin for LED
 
 GPIO.setmode(GPIO.BCM)
